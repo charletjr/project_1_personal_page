@@ -93,7 +93,7 @@ header .profile-image:hover {
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: rgb(90, 221, 90);
+  background: rgb(113, 224, 113);
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
@@ -165,6 +165,16 @@ a.social:hover {
 }
 .clearfix {
   clear: both;
+}
+
+.card-title {
+  color: #59ec34;
+  background-color: green;
+  display: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-radius: 3px;
+  padding: 3px;
 }
 
 /* Styles for larger screens */
