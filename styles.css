@@ -25,7 +25,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: black;
+  background: rgb(65, 66, 65);
   min-height: 30px;
   padding: 10px;
   position: fixed;
@@ -43,7 +43,7 @@ a:hover {
 .nav .name {
     display: block;
     margin-right: auto;
-    color: white;
+    color: rgb(79, 250, 64);
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -52,7 +52,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
+  color: rgb(252, 252, 252)
 }
 
 header {
@@ -63,43 +63,43 @@ header {
   padding-top: 60px;
 }
 header {
-  line-height: 1.5;
+  line-height: 2.5;
 }
 header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 5px solid rgb(69, 238, 27);
   transition: all .5s;
 }
 header .profile-image:hover {
   transform: scale(1.8) rotate(360deg);
 }
 .tag {
-  background-color: #efefef;
-  color: black;
-  padding: 10px;
+  background-color: #035838;
+  color: rgb(200, 238, 62);
+  padding: 8px;
   border-radius: 5px;
   display: table;
   margin: 10px auto;
 }
 .location {
-  background-color: #222;
-  color: yellow;
+  background-color: rgb(146, 240, 92);
+  color: rgb(22, 73, 18);
 }
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: #fff;
+  background: rgb(90, 221, 90);
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #fa02af;
 }a
 
 ul.skills {
